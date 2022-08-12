@@ -1,0 +1,32 @@
+*{
+    direction: rtl ;
+    font-family: 'Vasir';
+}
+.selectedItem{
+    background-color:yellow !important;
+}
+
+table > thead > tr>th ,table > tbody > tr>td{
+  text-align: center!important;
+}
+
+
+@font-face {
+  font-family: 'Vasir';
+  src: url('./assets/fonts/Vazir.woff') format('woff'),
+  url('./assets//fonts/Vazir.ttf') format('truetype')
+  
+}
+
+.post-body ,.post-title{
+  direction: ltr;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.compeleted-row{
+  background-color: rgb(117 255 117 / 52%) !important;
+}
+.close-btn{
+  outline: none!important;
+}
