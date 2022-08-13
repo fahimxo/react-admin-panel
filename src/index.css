@@ -14,7 +14,7 @@ table > thead > tr>th ,table > tbody > tr>td{
 @font-face {
   font-family: 'Vasir';
   src: url('./assets/fonts/Vazir.woff') format('woff'),
-  url('./assets//fonts/Vazir.ttf') format('truetype')
+  url('./assets/fonts/Vazir.ttf') format('truetype')
   
 }
 
