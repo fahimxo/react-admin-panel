@@ -1,6 +1,6 @@
 *{
     direction: rtl ;
-    font-family: 'Vasir';
+    font-family: 'Vazir';
 }
 .selectedItem{
     background-color:yellow !important;
@@ -12,7 +12,7 @@ table > thead > tr>th ,table > tbody > tr>td{
 
 
 @font-face {
-  font-family: 'Vasir';
+  font-family: 'Vazir';
   src: url('./assets/fonts/Vazir.woff') format('woff'),
   url('./assets/fonts/Vazir.ttf') format('truetype')
   
