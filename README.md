@@ -1,8 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## DEMO LINK : https://fahimxo-admin-panel.netlify.app
  
-## DEMO LINK : https://strong-douhua-450905.netlify.app
  
 ## Available Scripts
 
